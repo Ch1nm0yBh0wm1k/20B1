@@ -1,0 +1,14 @@
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\bin\Debug\net6.0\ReOOP.exe
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\bin\Debug\net6.0\ReOOP.deps.json
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\bin\Debug\net6.0\ReOOP.runtimeconfig.json
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\bin\Debug\net6.0\ReOOP.dll
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\bin\Debug\net6.0\ReOOP.pdb
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\obj\Debug\net6.0\ReOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\obj\Debug\net6.0\ReOOP.AssemblyInfoInputs.cache
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\obj\Debug\net6.0\ReOOP.AssemblyInfo.cs
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\obj\Debug\net6.0\ReOOP.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\obj\Debug\net6.0\ReOOP.dll
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\obj\Debug\net6.0\refint\ReOOP.dll
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\obj\Debug\net6.0\ReOOP.pdb
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\obj\Debug\net6.0\ReOOP.genruntimeconfig.cache
+C:\Users\DeLL\Desktop\20B1\BasicC#\ReOOP\obj\Debug\net6.0\ref\ReOOP.dll
