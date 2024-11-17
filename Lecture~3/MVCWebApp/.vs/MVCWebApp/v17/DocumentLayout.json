@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\dell\\desktop\\20b1\\mvcwebapp\\mvcwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\dell\\desktop\\20b1\\mvcwebapp\\mvcwebapp\\mvcwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\mvcwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\dell\\desktop\\20b1\\mvcwebapp\\mvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\dell\\desktop\\20b1\\mvcwebapp\\mvcwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\dell\\desktop\\20b1\\mvcwebapp\\mvcwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\dell\\desktop\\20b1\\mvcwebapp\\mvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\dell\\desktop\\20b1\\mvcwebapp\\mvcwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\dell\\desktop\\20b1\\mvcwebapp\\mvcwebapp\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|c:\\users\\dell\\desktop\\20b1\\mvcwebapp\\mvcwebapp\\views\\my\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0C3059-85EC-45E6-8B78-2B4A9063AC10}|MVCWebApp\\MVCWebApp.csproj|solutionrelative:mvcwebapp\\views\\my\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T05:38:51.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MVCWebApp",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\MVCWebApp.csproj",
+              "RelativeDocumentMoniker": "MVCWebApp\\MVCWebApp.csproj",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\MVCWebApp.csproj",
+              "RelativeToolTip": "MVCWebApp\\MVCWebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T05:20:00.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T05:19:54.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\appsettings.json",
+              "RelativeToolTip": "MVCWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T05:18:46.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MVCWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Program.cs",
+              "RelativeToolTip": "MVCWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:05:15.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Views\\My\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApp\\Views\\My\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Views\\My\\Index.cshtml",
+              "RelativeToolTip": "MVCWebApp\\Views\\My\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T04:47:16.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyController.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Controllers\\MyController.cs",
+              "RelativeDocumentMoniker": "MVCWebApp\\Controllers\\MyController.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Controllers\\MyController.cs",
+              "RelativeToolTip": "MVCWebApp\\Controllers\\MyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:46:53.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T04:42:59.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\MVCWebApp\\MVCWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:41:56.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
