@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bz08CvQM/r/TXWW5wiVdeq2En3w4NIxaww/FDUoaDRDHv3Ecl18/TxZLsuUVUD6UeE7XVcoa2ZFAfSX/kfJEKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DeLL\\Desktop\\20b1\\WebApplication2\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DeLL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
