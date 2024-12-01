@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\crudusingdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\crudusingdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\model\\_20b1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\model\\_20b1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\model\\vwgetstudentnameandage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\model\\vwgetstudentnameandage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\model\\misstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\model\\misstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|c:\\users\\dell\\desktop\\20b1\\crudusingdb\\crudusingdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1D88E4-11AB-4177-A66A-06CD04A13503}|CrudUsingDB\\CrudUsingDB.csproj|solutionrelative:crudusingdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Program.cs",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Program.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Program.cs",
+              "RelativeToolTip": "CrudUsingDB\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:31:48.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CrudUsingDB\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "CrudUsingDB\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:29:54.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrudUsingDB",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\CrudUsingDB.csproj",
+              "RelativeDocumentMoniker": "CrudUsingDB\\CrudUsingDB.csproj",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\CrudUsingDB.csproj",
+              "RelativeToolTip": "CrudUsingDB\\CrudUsingDB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T12:29:16.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Models\\Employee.cs",
+              "RelativeToolTip": "CrudUsingDB\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:28:21.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VwGetStudentNameAndAge.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Model\\VwGetStudentNameAndAge.cs",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Model\\VwGetStudentNameAndAge.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Model\\VwGetStudentNameAndAge.cs",
+              "RelativeToolTip": "CrudUsingDB\\Model\\VwGetStudentNameAndAge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:22:41.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MisStudent.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Model\\MisStudent.cs",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Model\\MisStudent.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Model\\MisStudent.cs",
+              "RelativeToolTip": "CrudUsingDB\\Model\\MisStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:23:06.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Model\\Student.cs",
+              "RelativeToolTip": "CrudUsingDB\\Model\\Student.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:22:52.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_20b1Context.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Model\\_20b1Context.cs",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Model\\_20b1Context.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Model\\_20b1Context.cs",
+              "RelativeToolTip": "CrudUsingDB\\Model\\_20b1Context.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:20:40.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudUsingDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\appsettings.json",
+              "RelativeToolTip": "CrudUsingDB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T11:34:45.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "CrudUsingDB\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwDIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T10:32:52.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudUsingDB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwBwAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T10:10:49.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Models\\Student.cs",
+              "RelativeToolTip": "CrudUsingDB\\Models\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:55:58.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CrudUsingDB\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\DeLL\\Desktop\\20b1\\CrudUsingDB\\CrudUsingDB\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CrudUsingDB\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:51:57.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
